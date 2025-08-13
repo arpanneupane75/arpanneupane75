@@ -94,7 +94,7 @@ These projects highlight my expertise in blending AI research with practical app
 
 ## Research & Publications
 
-## Research & Publications
+
 
 My commitment to advancing the field is reflected in my research and published works.
 
