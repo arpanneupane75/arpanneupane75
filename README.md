@@ -94,10 +94,16 @@ These projects highlight my expertise in blending AI research with practical app
 
 ## Research & Publications
 
+## Research & Publications
+
 My commitment to advancing the field is reflected in my research and published works.
 
--   📄 **Automated MCQ Generator using NLP** — *Published in IJISRT, 2025* [Read Paper](http://dx.doi.org/10.38124/ijisrt/25jun1878)
--   📝 **AI-Powered Document Verification** — *Under Review*, presented at ICRTAI 2025
+- 📄 **Automated MCQ Generator using NLP** — *Published in IJISRT, 2025*  
+  [Read Paper](http://dx.doi.org/10.38124/ijisrt/25jun1878)  
+  [View acceptance](https://github.com/arpanneupane75/MCQ-generator/blob/main/Mcq_generatot.jpg)
+
+- 📝 **AI-Powered Document Verification** — *Under Review*, presented at ICRTAI 2025  
+  [View PDF](https://github.com/arpanneupane75/Document_verification_system-/blob/main/Document_verification.pdf)
 
 ---
 
