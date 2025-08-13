@@ -88,6 +88,7 @@ These projects highlight my expertise in blending AI research with practical app
 | **Domain-Specific Chatbot**                 | `LangChain`, `LLMs`, `Streamlit`               | Engineered a context-aware conversational AI, trained on custom datasets to provide precise and relevant user interactions.                  |
 | **Automated MCQ Generator**                 | `Python`, `NLP`, `spaCy`                       | Created an intelligent tool that automatically generates diverse multiple-choice questions from text, streamlining content creation for educational platforms. |
 | **Global COVID-19 Data Dashboard**          | `Pandas`, `Matplotlib`, `Interactive Plotting` | Designed and deployed an interactive dashboard offering dynamic visualizations and insights into global pandemic trends, aiding data-driven analysis. |
+| **AI Resume Screening & Ranking System**    | `Python`, `Streamlit`, `spaCy`, `BERT`, `TF-IDF` | Built an AI-powered resume ranking system that extracts text from PDF/DOCX resumes, computes TF-IDF and BERT similarity with job descriptions, calculates skill match scores, visualizes top resumes, and supports download & search functionalities. |
 
 ---
 
