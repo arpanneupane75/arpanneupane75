@@ -77,7 +77,6 @@ My technical stack is comprehensive, covering core programming, advanced AI/ML, 
 </p>
 
 ---
-
 ## Featured Projects
 
 These projects highlight my expertise in blending AI research with practical application.
@@ -89,9 +88,11 @@ These projects highlight my expertise in blending AI research with practical app
 | **Automated MCQ Generator**                 | `Python`, `NLP`, `spaCy`                       | Created an intelligent tool that automatically generates diverse multiple-choice questions from text, streamlining content creation for educational platforms. |
 | **Global COVID-19 Data Dashboard**          | `Pandas`, `Matplotlib`, `Interactive Plotting` | Designed and deployed an interactive dashboard offering dynamic visualizations and insights into global pandemic trends, aiding data-driven analysis. |
 | **AI Resume Screening & Ranking System**    | `Python`, `Streamlit`, `spaCy`, `BERT`, `TF-IDF` | Built an AI-powered resume ranking system that extracts text from PDF/DOCX resumes, computes TF-IDF and BERT similarity with job descriptions, calculates skill match scores, visualizes top resumes, and supports download & search functionalities. |
+| **Car Price Prediction Application**        | `Python`, `Scikit-learn`, `Streamlit`          | Developed a comprehensive ML application predicting car prices using multiple regression models (SVR, KNN, Polynomial, Lasso, Ridge, ElasticNet) with a dynamic Streamlit interface for real-time predictions. |
+| **Cardiovascular Disease Prediction System**| `Python`, `Scikit-learn`, `Pandas`, `Streamlit` | Built an end-to-end ML workflow for early detection of CVD, analyzing patient data, training multiple models, and providing real-time predictions through an interactive interface. |
+
 
 ---
-
 ## Research & Publications
 
 
