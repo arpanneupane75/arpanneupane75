@@ -83,6 +83,7 @@ These projects highlight my expertise in blending AI research with practical app
 
 | Project                                     | Tech Stack                                     | Key Contributions                                                                                                                              |
 | :------------------------------------------ | :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nepali AI Studio: Speech to Text + Summarization** | `Python`, `Streamlit`, `PyTorch`, `Hugging Face Transformers`, `Sounddevice`, `Soundfile`, `Librosa` | Developed a full-stack web application for real-time Nepali speech-to-text transcription and text summarization; integrated pre-trained Hugging Face ASR and summarization models; implemented audio recording, file upload, and a highly interactive, custom-styled Streamlit UI with robust session management and user feedback. |
 | **VisionQAI – Advanced Continuous Live VQA System** | `Python`, `Streamlit`, `PyTorch`, `Hugging Face Transformers`, `OpenCV`, `SpeechRecognition`, `gTTS` | Developed a real-time Visual Question Answering platform supporting live webcam and uploaded image analysis, voice input, text-to-speech output, confidence scoring, batch question processing, JSON session export, and hardware-aware deployment (CPU, CUDA GPU, Apple MPS). |
 | **AI Document Verification System**         | `Django`, `React`, `TrOCR`, `YOLOv8`           | Developed a real-time system for secure ID and facial verification, integrating advanced OCR and face matching for enhanced security and efficiency. |
 | **Domain-Specific Chatbot**                 | `LangChain`, `LLMs`, `Streamlit`               | Engineered a context-aware conversational AI, trained on custom datasets to provide precise and relevant user interactions.                  |
@@ -91,7 +92,6 @@ These projects highlight my expertise in blending AI research with practical app
 | **AI Resume Screening & Ranking System**    | `Python`, `Streamlit`, `spaCy`, `BERT`, `TF-IDF` | Built an AI-powered resume ranking system that extracts text from PDF/DOCX resumes, computes TF-IDF and BERT similarity with job descriptions, calculates skill match scores, visualizes top resumes, and supports download & search functionalities. |
 | **Car Price Prediction Application**        | `Python`, `Scikit-learn`, `Streamlit`          | Developed a comprehensive ML application predicting car prices using multiple regression models (SVR, KNN, Polynomial, Lasso, Ridge, ElasticNet) with a dynamic Streamlit interface for real-time predictions. |
 | **Cardiovascular Disease Prediction System**| `Python`, `Scikit-learn`, `Pandas`, `Streamlit` | Built an end-to-end ML workflow for early detection of CVD, analyzing patient data, training multiple models, and providing real-time predictions through an interactive interface. |
-
 ---
 ## Research & Publications
 
