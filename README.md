@@ -75,23 +75,26 @@ My technical stack is comprehensive, covering core programming, advanced AI/ML, 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 </p>
-
 ---
 ## Featured Projects
+## Featured Projects
 
-These projects highlight my expertise in blending AI research with practical applications.
+These projects highlight my expertise in AI, machine learning, and full-stack application development.
 
-| Project                                     | Tech Stack                                     | Key Contributions                                                                                                                              |
+| Project | Tech Stack | Key Contributions |
 | :------------------------------------------ | :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nepali AI Studio: Speech to Text + Summarization** | `Python`, `Streamlit`, `PyTorch`, `Hugging Face Transformers`, `Sounddevice`, `Soundfile`, `Librosa` | Developed a full-stack web application for real-time Nepali speech-to-text transcription and text summarization; integrated pre-trained Hugging Face ASR and summarization models; implemented audio recording, file upload, and a highly interactive, custom-styled Streamlit UI with robust session management and user feedback. |
-| **VisionQAI – Advanced Continuous Live VQA System** | `Python`, `Streamlit`, `PyTorch`, `Hugging Face Transformers`, `OpenCV`, `SpeechRecognition`, `gTTS` | Developed a real-time Visual Question Answering platform supporting live webcam and uploaded image analysis, voice input, text-to-speech output, confidence scoring, batch question processing, JSON session export, and hardware-aware deployment (CPU, CUDA GPU, Apple MPS). |
-| **AI Document Verification System**         | `Django`, `React`, `TrOCR`, `YOLOv8`           | Developed a real-time system for secure ID and facial verification, integrating advanced OCR and face matching for enhanced security and efficiency. |
-| **Domain-Specific Chatbot**                 | `LangChain`, `LLMs`, `Streamlit`               | Engineered a context-aware conversational AI, trained on custom datasets to provide precise and relevant user interactions.                  |
-| **Automated MCQ Generator**                 | `Python`, `NLP`, `spaCy`                       | Created an intelligent tool that automatically generates diverse multiple-choice questions from text, streamlining content creation for educational platforms. |
-| **Global COVID-19 Data Dashboard**          | `Pandas`, `Matplotlib`, `Interactive Plotting` | Designed and deployed an interactive dashboard offering dynamic visualizations and insights into global pandemic trends, aiding data-driven analysis. |
-| **AI Resume Screening & Ranking System**    | `Python`, `Streamlit`, `spaCy`, `BERT`, `TF-IDF` | Built an AI-powered resume ranking system that extracts text from PDF/DOCX resumes, computes TF-IDF and BERT similarity with job descriptions, calculates skill match scores, visualizes top resumes, and supports download & search functionalities. |
-| **Car Price Prediction Application**        | `Python`, `Scikit-learn`, `Streamlit`          | Developed a comprehensive ML application predicting car prices using multiple regression models (SVR, KNN, Polynomial, Lasso, Ridge, ElasticNet) with a dynamic Streamlit interface for real-time predictions. |
-| **Cardiovascular Disease Prediction System**| `Python`, `Scikit-learn`, `Pandas`, `Streamlit` | Built an end-to-end ML workflow for early detection of CVD, analyzing patient data, training multiple models, and providing real-time predictions through an interactive interface. |
+| **SecureNet-Check – Phishing & Malicious URL Detection** | `Python`, `Flask`, `scikit-learn`, `NumPy`, `HTML/CSS` | - Developed a web application for detecting phishing and malicious URLs. <br> - Extracted 21 lexical features from URLs for machine learning prediction. <br> - Implemented a Random Forest model for accurate detection, including zero-day attacks. <br> - Delivered an interactive, user-friendly web interface. |
+| **Nepali AI Studio: Speech to Text + Summarization** | `Python`, `Streamlit`, `PyTorch`, `Hugging Face Transformers`, `Sounddevice`, `Soundfile`, `Librosa` | - Built a full-stack web app for real-time Nepali speech-to-text transcription and summarization. <br> - Integrated pre-trained ASR and summarization models. <br> - Supported audio recording, file upload, and interactive UI with session management. |
+| **VisionQAI – Advanced Continuous Live VQA System** | `Python`, `Streamlit`, `PyTorch`, `Hugging Face Transformers`, `OpenCV`, `SpeechRecognition`, `gTTS` | - Developed a real-time Visual Question Answering platform for webcam and image uploads. <br> - Added voice input, text-to-speech output, and confidence scoring. <br> - Enabled batch question processing, JSON session export, and hardware-aware deployment. |
+| **AI Document Verification System** | `Django`, `React`, `TrOCR`, `YOLOv8` | - Built a secure, real-time system for ID and facial verification. <br> - Integrated OCR and face-matching for high accuracy and security. |
+| **Domain-Specific Chatbot** | `LangChain`, `LLMs`, `Streamlit` | - Developed a context-aware conversational AI trained on custom datasets. <br> - Delivered precise and relevant user interactions. |
+| **Automated MCQ Generator** | `Python`, `NLP`, `spaCy` | - Created a tool to automatically generate multiple-choice questions from text. <br> - Streamlined educational content creation. |
+| **AI Resume Screening & Ranking System** | `Python`, `Streamlit`, `spaCy`, `BERT`, `TF-IDF` | - Developed an AI-powered resume ranking system. <br> - Extracted text from resumes, computed TF-IDF and BERT similarity, and calculated skill match scores. <br> - Provided search, visualization, and download functionalities. |
+| **Global COVID-19 Data Dashboard** | `Pandas`, `Matplotlib`, `Interactive Plotting` | - Designed an interactive dashboard for global COVID-19 trends. <br> - Enabled dynamic visualizations and actionable insights. |
+| **Car Price Prediction Application** | `Python`, `Scikit-learn`, `Streamlit` | - Developed a car price prediction application using multiple regression models. <br> - Delivered a responsive interface for real-time predictions. |
+| **Cardiovascular Disease Prediction System** | `Python`, `Scikit-learn`, `Pandas`, `Streamlit` | - Built an end-to-end ML workflow for early detection of cardiovascular disease. <br> - Analyzed patient data, trained models, and provided real-time predictions via an interactive interface. |
+
+
 ---
 ## Research & Publications
 
