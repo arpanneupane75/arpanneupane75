@@ -77,8 +77,6 @@ My technical stack is comprehensive, covering core programming, advanced AI/ML, 
 </p>
 ---
 ## Featured Projects
-## Featured Projects
-
 These projects highlight my expertise in AI, machine learning, and full-stack application development.
 
 | Project | Tech Stack | Key Contributions |
