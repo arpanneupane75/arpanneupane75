@@ -75,8 +75,13 @@ My technical stack is comprehensive, covering core programming, advanced AI/ML, 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 </p>
+
+
 ---
+
+
 ## Featured Projects
+
 These projects highlight my expertise in AI, machine learning, and full-stack application development.
 
 | Project | Tech Stack | Key Contributions |
