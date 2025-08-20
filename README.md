@@ -78,11 +78,9 @@ My technical stack is comprehensive, covering core programming, advanced AI/ML, 
 
 
 ---
-
-
 ## Featured Projects
 
-These projects highlight my expertise in AI, machine learning, and full-stack application development.
+These projects highlight my expertise in **AI, machine learning, and full-stack application development**.
 
 | Project | Tech Stack | Key Contributions |
 | :------------------------------------------ | :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,6 +94,8 @@ These projects highlight my expertise in AI, machine learning, and full-stack ap
 | **Global COVID-19 Data Dashboard** | `Pandas`, `Matplotlib`, `Interactive Plotting` | - Designed an interactive dashboard for global COVID-19 trends. <br> - Enabled dynamic visualizations and actionable insights. |
 | **Car Price Prediction Application** | `Python`, `Scikit-learn`, `Streamlit` | - Developed a car price prediction application using multiple regression models. <br> - Delivered a responsive interface for real-time predictions. |
 | **Cardiovascular Disease Prediction System** | `Python`, `Scikit-learn`, `Pandas`, `Streamlit` | - Built an end-to-end ML workflow for early detection of cardiovascular disease. <br> - Analyzed patient data, trained models, and provided real-time predictions via an interactive interface. |
+| **Route Master – ERC Campus Navigation** | `Flutter`, `Dart`, `Graph Theory`, `Dijkstra’s Algorithm` | - Developed a campus navigation tool for the Eastern Regional Campus (ERC). <br> - Modeled the campus as a weighted graph with nodes and edges. <br> - Implemented Dijkstra’s algorithm to find the shortest path between any two points. <br> - Integrated real-world distance measurements and topological map visualization. |
+
 
 
 ---
