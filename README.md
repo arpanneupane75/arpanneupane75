@@ -117,7 +117,11 @@ My commitment to advancing the field is reflected in my research and published w
   [Read Paper](https://github.com/arpanneupane75/Document_verification_system-/blob/main/Bachelor.pdf) ||
   [Acceptance Proof ](https://github.com/arpanneupane75/Document_verification_system-/blob/main/Document_verification.pdf)
  
+- 🔤 **LipiBridge – Nepali-English OCR & Translation System** — *Soon-to-be Published*  
+  [View Report](https://github.com/arpanneupane75/LipiBridge/blob/main/Image_to_text.pdf)
 
+- 🕵️‍♂️ **SecureNet-Check – Phishing & Malicious URL Detection** — *Soon-to-be Published*  
+  [View Report](https://github.com/arpanneupane75/SecureNet-Check/blob/main/Phish_Report.pdf)
   
 
 ---
