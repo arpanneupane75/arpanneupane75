@@ -126,6 +126,10 @@ My commitment to advancing the field is reflected in my research and published w
 
 - 🎨 **AnimFusion – Automated Video-to-Animation System** — *Soon-to-be Published*  
   [View Report](https://github.com/arpanneupane75/AnimFusion/blob/main/AnimFusion_thesis.pdf)
+  
+- 🚗 **NepalPlateVision – YOLOv8-based Vehicle Number Plate Detection & Recognition** — *Soon-to-be Published*  
+  [View Report](https://github.com/arpanneupane75/NepalPlateVision/blob/main/Nepali_License_plate_thesis.pdf)
+
 - 👁️ **AttendVision – Face Recognition Attendance System** — *Soon-to-be Published*  
   [View Report](https://github.com/arpanneupane75/AttendVision/blob/main/AttendVision_Report.pdf)
 - 👁️ **Route_Master – Implementation of Djakstras alogorithm** — *Soon-to-be Published*  
