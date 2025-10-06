@@ -126,6 +126,9 @@ My commitment to advancing the field is reflected in my research and published w
 
  - 👁️ **AttendVision – Face Recognition Attendance System** — *Soon-to-be Published*  
   [View Report](https://github.com/arpanneupane75/AttendVision/blob/main/AttendVision_Report.pdf)
+- 👁️ **Route_Master – Implementation of Djakstras alogorithm** — *Soon-to-be Published*  
+  [View Report](https://github.com/arpanneupane75/Route-Master/blob/main/Route_Master_thesis.pdf)
+
 
   
 
