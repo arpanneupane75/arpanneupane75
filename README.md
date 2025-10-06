@@ -93,6 +93,8 @@ These projects highlight my expertise in **AI, machine learning, and full-stack 
 | **[Automated MCQ Generator](https://github.com/arpanneupane75/MCQ-generator)** | `Python`, `NLP`, `spaCy` | - Created a tool to automatically generate multiple-choice questions from text. <br> - Streamlined educational content creation. |
 | **[LipiBridge – Nepali-English OCR & Translation System](https://github.com/arpanneupane75/LipiBridge)** | `Python`, `Flask`, `Tesseract-OCR`, `mBART`, `OpenCV`, `Scikit-learn`, `ONNX Runtime` | - Developed an Optical Character Recognition and translation system between **Nepali** and **English**. <br> - Integrated **Tesseract OCR** with preprocessing (grayscale, denoising, adaptive thresholding). <br> - Built a **Naïve Bayes Classifier** for accurate language detection. <br> - Used **mBART (Multilingual BART)** model fine-tuned for Nepali-English translation. <br> - Designed an intuitive **Flask web interface** for real-time image upload, text extraction, and translation. |
 | **[AI Resume Screening & Ranking System](https://github.com/arpanneupane75/AI-Resume-Screening)** | `Python`, `Streamlit`, `spaCy`, `BERT`, `TF-IDF` | - Developed an AI-powered resume ranking system. <br> - Extracted text from resumes, computed TF-IDF and BERT similarity, and calculated skill match scores. <br> - Provided search, visualization, and download functionalities. |
+| **[AttendVision – Face Recognition Attendance System](https://github.com/arpanneupane75/AttendVision)** | `Python`, `OpenCV`, `SQLite`, `Tkinter` | - Developed an automated attendance system using facial recognition. <br> - Captures, identifies, and records student/employee presence in real-time. <br> - Integrated a secure SQLite database for student details and attendance logs. <br> - Built a user-friendly GUI with Tkinter for easy management and report generation. <br> - Export daily/monthly attendance reports in Excel/CSV format. |
+
 | **[Global COVID-19 Data Dashboard](https://github.com/arpanneupane75/CovidDashboard)** | `Pandas`, `Matplotlib`, `Interactive Plotting` | - Designed an interactive dashboard for global COVID-19 trends. <br> - Enabled dynamic visualizations and actionable insights. |
 | **[Car Price Prediction Application](https://github.com/arpanneupane75/Car_prediction)** | `Python`, `Scikit-learn`, `Streamlit` | - Developed a car price prediction application using multiple regression models. <br> - Delivered a responsive interface for real-time predictions. |
 | **[Cardiovascular Disease Prediction System](https://github.com/arpanneupane75/Heart-Disease-Prediction)** | `Python`, `Scikit-learn`, `Pandas`, `Streamlit` | - Built an end-to-end ML workflow for early detection of cardiovascular disease. <br> - Analyzed patient data, trained models, and provided real-time predictions via an interactive interface. |
@@ -122,6 +124,10 @@ My commitment to advancing the field is reflected in my research and published w
 
 - 🕵️‍♂️ **SecureNet-Check – Phishing & Malicious URL Detection** — *Soon-to-be Published*  
   [View Report](https://github.com/arpanneupane75/SecureNet-Check/blob/main/Phish_Report.pdf)
+
+ - 👁️ **AttendVision – Face Recognition Attendance System** — *Soon-to-be Published*  
+  [View Report](https://github.com/arpanneupane75/AttendVision/blob/main/AttendVision_Report.pdf)
+
   
 
 ---
