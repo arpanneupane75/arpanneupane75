@@ -9,7 +9,9 @@
 
 <p align="center">
   <a href="mailto:arpanneupane75@gmail.com"><img src="https://img.shields.io/badge/Email-arpanneupane75%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Arpan" /></a>
-  <a href="https://linkedin.com/in/arpan-neupane-232a861b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Arpan%20Neupane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+ <a href="https://linkedin.com/in/arpan-neupane-6958b7389" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Arpan%20Neupane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
   <a href="https://github.com/arpanneupane75" target="_blank"><img src="https://img.shields.io/badge/GitHub-arpanneupane75-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
   <a href="https://portfolio-arpan-neupanes-projects-676ecedb.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Arpan's Portfolio" />
@@ -171,7 +173,9 @@ I welcome discussions on AI, data science, software development, and potential c
 
 <p align="center">
   <a href="mailto:arpanneupane75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Arpan"/></a>
-  <a href="https://linkedin.com/in/arpan-neupane-232a861b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+  <a href="https://linkedin.com/in/arpan-neupane-6958b7389" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Arpan%20Neupane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
   <a href="https://github.com/arpanneupane75" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
   <a href="https://portfolio-arpan-neupanes-projects-676ecedb.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link"/></a>
 </p>
